@@ -12,6 +12,15 @@ A joke for the sake of a joke in a practice-oriented style.
 Enjoy! 🎪🤹🏼‍♀️
 
 
+### How do I use the script?
+
+- Download two .txt files and randexpelled.sh 
+- Permission to run the script is given 
+- Runs the script, generates names in expelled_surnames and displays images in the expelled folder
+
+The detailed work of the script is described in the code itself
+
+
 
 ### Flaws:
 
