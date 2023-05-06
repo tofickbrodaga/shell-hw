@@ -14,9 +14,27 @@ Enjoy! 🎪🤹🏼‍♀️
 
 ### How do I use the script?
 
-- Download two .txt files and randexpelled.sh 
+- Download repo 
 - Permission to run the script is given 
 - Runs the script, generates names in expelled_surnames and displays images in the expelled folder
+
+##### 1 step
+```
+git clone https://github.com/meepdd/shell-hw
+```
+##### 2 step
+```
+cd shell-hw
+```
+##### 3 step
+```
+sudo chmod +x randexpelled.sh
+```
+##### 4 step
+```
+./randexpelled.sh
+```
+
 
 The detailed work of the script is described in the code itself
 
